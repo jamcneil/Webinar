@@ -1,0 +1,10 @@
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/bin/Debug/AndroidWeather.Core.dll.mdb
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/bin/Debug/AndroidWeather.Core.dll
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/obj/Debug/AndroidWeather.Core.dll
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/obj/Debug/AndroidWeather.Core.dll.mdb
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/bin/Debug/Plugin.Geolocator.dll
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/bin/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/bin/Debug/Plugin.Settings.Abstractions.dll
+/Users/judymcneil/Desktop/AndroidWeather/AndroidWeather.Core/bin/Debug/Plugin.Settings.dll

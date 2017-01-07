@@ -1,0 +1,4 @@
+AndroidWeather.MainActivity, AndroidWeather;md56310d0a285f0cccadf5cf641ad9caca0.MainActivity
+AndroidWeather.MainActivity, AndroidWeather, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56310d0a285f0cccadf5cf641ad9caca0.MainActivity
+AndroidWeather.MainActivity;md56310d0a285f0cccadf5cf641ad9caca0.MainActivity
+androidweather.MainActivity;md56310d0a285f0cccadf5cf641ad9caca0.MainActivity

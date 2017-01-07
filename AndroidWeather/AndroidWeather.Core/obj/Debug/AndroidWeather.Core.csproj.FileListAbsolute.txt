@@ -1,0 +1,17 @@
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\obj\Debug\AndroidWeather.Core.csprojResolveAssemblyReference.cache
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\AndroidWeather.Core.dll
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\AndroidWeather.Core.pdb
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Newtonsoft.Json.dll
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Geolocator.dll
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Settings.Abstractions.dll
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Settings.dll
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Newtonsoft.Json.xml
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Geolocator.pdb
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Geolocator.xml
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Settings.xml
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\bin\Debug\Plugin.Settings.Abstractions.xml
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\obj\Debug\AndroidWeather.Core.dll
+C:\AppStuff\AndroidWeather\AndroidWeather.Core\obj\Debug\AndroidWeather.Core.pdb
